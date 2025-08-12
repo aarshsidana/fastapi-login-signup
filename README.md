@@ -57,7 +57,7 @@ A comprehensive user authentication system built with FastAPI, MySQL, and Docker
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/fastapi-auth-backend.git
+   git clone https://github.com/aarshsidana/fastapi-auth-backend.git
    cd fastapi-auth-backend
    ```
 
@@ -455,8 +455,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Email: your.email@example.com
+- GitHub: [@aarshsidana](https://github.com/aarshsidana)
+- Email: aarshsidana@gmail.com
 
 ## 🙏 Acknowledgments
 
